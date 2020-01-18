@@ -32,3 +32,4 @@ def cf_ranklist(contest_code):
     rank.save('final.csv')
                    
     #return ranklist 
+cf_ranklist(int(input()))
