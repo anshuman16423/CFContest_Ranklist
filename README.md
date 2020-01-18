@@ -7,6 +7,6 @@ A Python script to create personal contest ranklist for codeforces rounds.
 - xlrd, xlwt
 
 ## To run
-- IN the working directory add a excel sheet with contestant name in 2nd coulumn and CF handle link in 5th coulumn.
+- In the working directory add a excel sheet with contestant name in 2nd coulumn and CF handle link in 5th coulumn.
 - run the script and enter the contest code.
 - final ranklist can be found in a final.csv file created in the same folder.
